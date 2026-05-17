@@ -890,11 +890,12 @@ app.add_exception_handler(
 # CORS
 # =============================================================================
 
+
 app.add_middleware(
 
     CORSMiddleware,
 
-    allow_origins=[FRONTEND_URL],
+    allow_origins=["*"],
 
     allow_credentials=True,
 
