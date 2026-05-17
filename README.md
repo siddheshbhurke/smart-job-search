@@ -2,6 +2,11 @@
 
 AI-powered resume-to-job recommendation system built using FastAPI, JavaScript, and Gemini-powered reasoning with intelligent fallback logic.
 
+## Live Demo
+
+🌐 Live Application:  
+:contentReference[oaicite:0]{index=0}
+
 ---
 
 ## Features
